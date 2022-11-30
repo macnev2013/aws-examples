@@ -1,2 +1,2 @@
-# localstack-client-examples
-Basic example for creating LocalStack client
+# AWS SDK Examples
+Basic AWS Example for using Localstack.
