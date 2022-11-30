@@ -1,0 +1,19 @@
+{
+  "name": "5772",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/async": "^3.2.16",
+    "async": "^3.2.4",
+    "aws-sdk": "^2.1264.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
